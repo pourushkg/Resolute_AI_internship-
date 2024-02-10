@@ -1,0 +1,6 @@
+artifacts_root: artifacts 
+
+data_ingestion_for_task1:
+  root_dir: artifacts/data_ingestion
+  source_URL: https://github.com/pourushkg/All_Dataset/raw/main/Resolute_AI_Data/Task1and2/train.xlsx
+  local_data_dir: artifacts/data_ingestion/train.xlsx
