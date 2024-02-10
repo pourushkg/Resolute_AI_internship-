@@ -1,9 +1,7 @@
 pandas 
-scikit-learn
-openpyxl
-seaborn
 notebook
 numpy
+scikit-learn
 matplotlib
 python-box==6.0.2
 pyYAML
@@ -12,4 +10,4 @@ joblib
 types-PyYAML
 Flask
 Flask-Cors
--e . 
+-e .

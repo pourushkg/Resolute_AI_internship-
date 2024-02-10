@@ -17,10 +17,11 @@ COLUMNS:
   T16: int64
   T17: int64
   T18: int64
-
-
-TARGET_COLUMN:
   target: object
+
+
+# TARGET_COLUMN:
+#   target: object
 
 
 

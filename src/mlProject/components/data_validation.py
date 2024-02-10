@@ -14,6 +14,8 @@ class DataValiadtion:
 
             data = pd.read_csv(self.config.unzip_data_dir)
             all_cols = list(data.columns)
+            
+
 
             all_schema = self.config.all_schema.keys()
 
